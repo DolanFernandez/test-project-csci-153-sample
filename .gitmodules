@@ -1,0 +1,3 @@
+[submodule "test-project-csci-153-sample"]
+	path = test-project-csci-153-sample
+	url = https://github.com/DolanFernandez/test-project-csci-153-sample.git
